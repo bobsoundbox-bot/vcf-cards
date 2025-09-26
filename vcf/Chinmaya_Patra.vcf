@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 N:Patra;Chinmaya;;;
 FN:Chinmaya Patra
-ORG:iServeU Technology PVT LTD
-TITLE:Digital Manager
-TEL;TYPE=CELL:+91 90902 77070
-EMAIL;TYPE=INTERNET:chinmaya.p@iserveu.co.in
+ORG:+91 90902 77070
+TITLE:chinmaya.p@iserveu.co.in
+TEL;TYPE=CELL:iServeU Technology PVT LTD
+EMAIL;TYPE=INTERNET:https://iserveu-technology.github.io/vcf-cards/vcf/Chinmaya_Patra.vcf
 URL:https://xilicon.example.com
 ADR;TYPE=WORK:;;123 Example St;Bhubaneswar;Odisha;751001;India
-NOTE:Tap to save contact
+NOTE:https://is.gd/H1RiMP
 END:VCARD
