@@ -1,7 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
+N:Mishra;Ariyan;;;
 FN:Ariyan Mishra
 ORG:iServeU Technology
+TITLE:Digital Manager
 TEL;TYPE=CELL:9348563914
 EMAIL;TYPE=INTERNET:ariyan.mishra@iserveu.co.in
+URL:https://xilicon.example.com
+ADR;TYPE=WORK:;;https://iserveu-technology.github.io/vcf-cards/vcf/Ariyan_Mishra.vcf
+NOTE:https://is.gd/8lKwYx
 END:VCARD
