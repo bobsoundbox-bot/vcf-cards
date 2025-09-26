@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Name;;;
+FN:Name
+ORG:Phone
+TITLE:Email
+TEL;TYPE=CELL:Company
+EMAIL;TYPE=INTERNET:Designation
+URL:Website
+ADR;TYPE=WORK:;;Address (optional)
+NOTE:Column 8
+END:VCARD
