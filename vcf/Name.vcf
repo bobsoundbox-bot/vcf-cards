@@ -7,6 +7,6 @@ TITLE:Email
 TEL;TYPE=CELL:Company
 EMAIL;TYPE=INTERNET:Designation
 URL:Website
-ADR;TYPE=WORK:;;https://iserveu-technology.github.io/vcf-cards/vcf/Name.vcf
-NOTE:https://is.gd/vni1Bm
+ADR;TYPE=WORK:;;URL
+NOTE:SHORT URL
 END:VCARD
