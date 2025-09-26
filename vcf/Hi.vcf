@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;Hi;;;
+FN:Hi
+ORG:isu
+TITLE:Digital Manager
+TEL;TYPE=CELL:9090909090
+EMAIL;TYPE=INTERNET:ariyan
+URL:https://xilicon.example.com
+ADR;TYPE=WORK:;;123 Example St;Bhubaneswar;Odisha;751001;India
+NOTE:Tap to save contact
+END:VCARD
