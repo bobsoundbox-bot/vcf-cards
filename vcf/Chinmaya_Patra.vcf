@@ -2,9 +2,9 @@ BEGIN:VCARD
 VERSION:3.0
 N:Patra;Chinmaya;;;
 FN:Chinmaya Patra
-ORG:iServeU Technology PVT LTD
-TITLE:VP - Customer Success
-TEL;TYPE=CELL:+91 90902 77070
-EMAIL;TYPE=INTERNET:chinmaya.p@iserveu.in
-URL:www.iserveu.in
+ORG:iServeU Technology 
+TITLE:Vice President
+TEL;TYPE=CELL:9090277070
+EMAIL;TYPE=INTERNET:chinmaya.p@iserveu
+URL:iserveu.in
 END:VCARD
